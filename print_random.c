@@ -1,3 +1,9 @@
+/* Emmanuel Kourtakis
+ * CIS-3207-3
+ * Project Git
+ * 8/30/24
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
